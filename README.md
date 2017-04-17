@@ -317,5 +317,3 @@ Finally, the best mix will be defined by
 srilm-1.7.2/bin/i686-m64/ngram -lm lang_models/mix_model_lambda_02.arpa -ppl st2/newstest2016-deen-ref.en.tok
 
 ```
-
-<bibliography:/ssh:daniel@koiserver.ddns.net:/home/daniel/Documents/Apuntes/Master/ST/Assigments/2/Assigment_2:Language_Modeling.bib>
